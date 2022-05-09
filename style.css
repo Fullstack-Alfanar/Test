@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+}
+.title{
+    text-align: center;
+    font-size: xx-large;
+}
+.box{
+    border-color: blueviolet;
+    border-radius: 20px;
+    
+}
+label{
+    font-size: x-large;
+}
